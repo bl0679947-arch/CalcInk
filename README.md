@@ -6,12 +6,6 @@ CalcInk is a web-based mathematical canvas that recognizes handwritten equations
 
 ---
 
-## Submission Deliverables Checklist
-
-- [x] **Source Code Repository**: Clean, modular, fully typed, and documented TypeScript + React source code.
-- [x] **Project Documentation (`README.md`)**: Quick-start instructions and complete pre-trained model attribution (source link, license, architecture).
-- [ ] **Live Hosted Demonstration**: Deployment link (e.g., Vercel / Netlify / Cloudflare Pages / GitHub Pages).
-
 ---
 
 ## Quick Start (Local Setup)
