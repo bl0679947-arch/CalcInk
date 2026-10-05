@@ -6,8 +6,6 @@ CalcInk is a web-based mathematical canvas that recognizes handwritten equations
 
 ---
 
----
-
 ## Quick Start (Local Setup)
 
 ### Prerequisites
