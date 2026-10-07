@@ -1,4 +1,4 @@
-# CalcInk ✍️
+<img width="1903" height="926" alt="image" src="https://github.com/user-attachments/assets/0c26de65-53cc-4577-862e-5a5068d038bf" /># CalcInk ✍️
 
 > Offline AI-Powered Digital Math Notebook, Reactive Equation Solver & 2D Curve Grapher.
 
@@ -157,25 +157,8 @@ CalcInk/
 
 ---
 
-## Deploying to Production
+## Deployment Link
+https://calcink-one.vercel.app
 
-CalcInk requires no server-side runtime. You can deploy it to any static web hosting provider:
 
-### Vercel
-1. Import your GitHub repository into [Vercel](https://vercel.com).
-2. Framework Preset: **Vite**.
-3. Build Command: `npm run build`.
-4. Output Directory: `dist`.
-5. Deploy.
 
-### Netlify
-1. Connect your repository on [Netlify](https://netlify.com).
-2. Build command: `npm run build`.
-3. Publish directory: `dist`.
-4. Deploy.
-
-### Cloudflare Pages
-1. Connect your repository on Cloudflare Pages.
-2. Build command: `npm run build`.
-3. Output directory: `dist`.
-4. Deploy.
