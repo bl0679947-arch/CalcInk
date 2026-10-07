@@ -138,7 +138,7 @@ CalcInk/
    - View, copy, and clear variables inside the slide-out **Notebook Tools** drawer.
 
 3. **Interactive 2D Curve Graphing**:
-   - Automatically detects 2D function curves such as $y = x^2 - 4$, $y = \sin(x)$, or $f(x) = 2x + 1$.
+   - Automatically detects 2D function curves such as $y = x^2 - 4$.
    - Dedicated Cartesian coordinate plane with pan/zoom, grid ticks, $x$-intercept roots, and extrema readouts.
 
 4. **Continuous Handwriting on the Same Line**:
